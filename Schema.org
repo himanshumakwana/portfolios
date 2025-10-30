@@ -1,0 +1,17 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Himanshu Makwana",
+  "jobTitle": "Senior MERN Developer",
+  "url": "https://himanshumakwana.github.io/portfolios",
+  "sameAs": [
+    "https://github.com/himanshumakwana",
+    "https://www.linkedin.com/in/himanshu-makwana-info",
+    "https://twitter.com/himansh22615611",
+    "https://twitter.com/himanshumakwn",
+    "https://www.instagram.com/himanshu_makwana__/"
+  ],
+  "description": "Senior MERN Stack Developer specializing in building web applications using MongoDB, Express, React, and Node.js."
+}
+</script>
